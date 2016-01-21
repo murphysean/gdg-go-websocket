@@ -3,6 +3,9 @@
 Introduction
 ---
 
+For the Jan 2016 GDG Monthly we talked about websockets. I shared
+this presentation: [Google Slide](https://docs.google.com/presentation/d/1dVGIKJhQ-Fj1C1AzS5CBAcKWxNwnclDnDD_re2rRZHA/edit?usp=sharing)
+
 There is a default webpage that can be found @ localhost:8080/.
 This app will connect to a websocket found at
 
