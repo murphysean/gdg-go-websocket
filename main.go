@@ -308,7 +308,7 @@ func main() {
 				}
 				if m.Source == "client" && m.Command == "notify" && m.Path != "" {
 					if s, ok := sockets[m.Path]; ok {
-						m.Source = name
+						m.Source = "http-request"
 						s <- m
 					}
 				}
